@@ -1,3 +1,1 @@
-```diff
-- 0x02. React props
-```
+## 0x02. React props
